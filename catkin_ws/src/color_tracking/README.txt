@@ -13,7 +13,7 @@
 
 ** How to run:
 	- After you catkin_make this package
-	- roscoe
+	- roscore
 	- rosrun zed_wrapper zed_wrapper_node
 	- rosrun color_tracking color_tracking_node
 
